@@ -1,0 +1,1701 @@
+item_number: 100919079995
+id: 166800
+title: Ваза Pasabahce Flora (43767B), прозрачный
+price: 682
+category: Вазы
+sku: 100919079995
+url: https://market.yandex.ru/product/100919079995
+yandex, name: Гала-Центр
+yandex, price: 308
+yandex, url: https://market.yandex.ru/product/662683381/offers?sku=100919079995&how=aprice
+sima-land, price: 261
+sima-land, updated: 2024-02-26 04:30:02
+other, name: www.maxidom.ru
+other, price: 259
+other, url: https://www.maxidom.ru/catalog/vazy/1000956016/
+updated: 2024-02-24 04:00:03
+
+item_number: 101635433967
+id: 322156
+title: Магический шар предсказаний для принятия решений Magic 8 ball
+price: 1080
+category: Шары желаний
+sku: 101635433967
+url: https://market.yandex.ru/product/101635433967
+yandex, name: KaZBeK
+yandex, price: 302
+yandex, url: https://market.yandex.ru/product/1726301774/offers?sku=101635433967&how=aprice
+sima-land, price: 599
+sima-land, updated: 2024-02-26 04:30:03
+other, name: www.ozon.ru
+other, price: 511
+other, url: https://www.ozon.ru/context/detail/id/250089571/
+updated: 2024-02-24 04:00:03
+
+item_number: 1963652330
+id: 885615
+title: Мягкая игрушка Fancy Медвежонок Чиба с зайцем, 28 см, коричневый
+price: 2429
+category: От 20 до 50 см
+sku: 1963652330
+url: https://market.yandex.ru/product/1963652330
+yandex, name: Яндекс Маркет
+yandex, price: 941
+yandex, url: https://market.yandex.ru/product/1780592874/offers?sku=1963652330&how=aprice
+sima-land, price: 1231
+sima-land, updated: 2024-02-26 04:30:03
+other, name: www.ozon.ru
+other, price: 923
+other, url: https://www.ozon.ru/context/detail/id/858006334/
+updated: 2024-02-24 04:00:03
+
+item_number: 101787349844
+id: 1037975
+title: Тюль Лента 09С6305-Г50 на ленте/зажимах, 170х170 см, 1 шт., белый
+price: 774
+category: Шторы
+sku: 101787349844
+url: https://market.yandex.ru/product/101787349844
+yandex, name: ЛентаБел
+yandex, price: 340
+yandex, url: https://market.yandex.ru/product/1759968736/offers?sku=101787349844&how=aprice
+sima-land, price: 263
+sima-land, updated: 2024-02-26 04:30:03
+other, name: www.ozon.ru
+other, price: 339
+other, url: https://www.ozon.ru/context/detail/id/250968267/
+updated: 2024-02-24 04:00:03
+
+item_number: 101204281913
+id: 1038045
+title: Тюль Лента 04С1997-Г50 на ленте, 305х165 см, 1 шт., белый
+price: 1355
+category: Шторы
+sku: 101204281913
+url: https://market.yandex.ru/product/101204281913
+yandex, name: ЛентаБел
+yandex, price: 560
+yandex, url: https://market.yandex.ru/product/854175321/offers?sku=101204281913&how=aprice
+sima-land, price: 650
+sima-land, updated: 2024-02-26 04:30:03
+other, name: leroymerlin.ru
+other, price: 555
+other, url: https://leroymerlin.ru/product/tyul-lenta-04s1997-g50-93847913
+updated: 2024-02-24 04:00:03
+
+item_number: 101415671019
+id: 1237564
+title: Панель ПВХ Мозаика Марракеш 955*480
+price: 549
+category: Листовые панели ПВХ
+sku: 101415671019
+url: https://market.yandex.ru/product/101415671019
+yandex, name: Строительный мир
+yandex, price: 242
+yandex, url: https://market.yandex.ru/product/1413118018/offers?sku=101415671019&how=aprice
+sima-land, price: 145
+sima-land, updated: 2024-02-26 04:30:03
+other, name: www.wildberries.ru
+other, price: 380
+other, url: https://www.wildberries.ru/catalog/137374045/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 100693507873
+id: 1272217
+title: Paris Line Parfums туалетная вода Number One, 100 мл, 270 г
+price: 852
+category: Недорогая парфюмерия
+sku: 100693507873
+url: https://market.yandex.ru/product/100693507873
+yandex, name: ПЕППА
+yandex, price: 319
+yandex, url: https://market.yandex.ru/product/496796051/offers?sku=100693507873&how=aprice
+sima-land, price: 319
+sima-land, updated: 2024-02-26 04:30:03
+other, name: www.wildberries.ru
+other, price: 408
+other, url: https://www.wildberries.ru/catalog/27745969/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101875267923
+id: 2464073
+title: ArtFox Ручка подарочная "С 23 февраля", 2464073, 1 шт.
+price: 366
+category: Сувенирные ручки
+sku: 101875267923
+url: https://market.yandex.ru/product/101875267923
+yandex, name: САКАРТВЕЛО
+yandex, price: 190
+yandex, url: https://market.yandex.ru/product/1786445573/offers?sku=101875267923&how=aprice
+sima-land, price: 89
+sima-land, updated: 2024-02-26 04:30:03
+other, name: www.wildberries.ru
+other, price: 251
+other, url: https://www.wildberries.ru/catalog/193342939/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 604980007
+id: 4666055
+title: Конструктор Sluban серия Космос, модель M38-B0735, Ракета 167 деталей
+price: 1502
+category: Блочный конструктор
+sku: 604980007
+url: https://market.yandex.ru/product/604980007
+yandex, name: Яндекс Маркет
+yandex, price: 666
+yandex, url: https://market.yandex.ru/product/1787716834/offers?sku=604980007&how=aprice
+sima-land, price: 658
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.wildberries.ru
+other, price: 666
+other, url: https://www.wildberries.ru/catalog/149912515/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 646978055
+id: 4711253
+title: Настольная игра «Поймай монстрика» (жестяная коробочка)
+price: 708
+category: Игры на скорость и внимание
+sku: 646978055
+url: https://market.yandex.ru/product/646978055
+yandex, name: Хорошо-Shop
+yandex, price: 248
+yandex, url: https://market.yandex.ru/product/1780605128/offers?sku=646978055&how=aprice
+sima-land, price: 259
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.wildberries.ru
+other, price: 305
+other, url: https://www.wildberries.ru/catalog/169045292/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101744040830
+id: 4719045
+title: Картина по номерам Школа талантов "Милые котята" 15 х 15 см на холсте
+price: 605
+category: Роспись по холсту и по номерам
+sku: 101744040830
+url: https://market.yandex.ru/product/101744040830
+yandex, name: Funny Toys
+yandex, price: 294
+yandex, url: https://market.yandex.ru/product/836731032/offers?sku=101744040830&how=aprice
+sima-land, price: 250
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.ozon.ru
+other, price: 269
+other, url: https://www.ozon.ru/context/detail/id/227219940/
+updated: 2024-02-24 04:00:03
+
+item_number: 101623321743
+id: 4785942
+title: Кубик антистресс «Стрессоутолин», puzzle, джойстик, для детей
+price: 449
+category: Приколы для розыгрышей
+sku: 101623321743
+url: https://market.yandex.ru/product/101623321743
+yandex, name: ООО "ТероПром"
+yandex, price: 277
+yandex, url: https://market.yandex.ru/product/1698971229/offers?sku=101623321743&how=aprice
+sima-land, price: 190
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.wildberries.ru
+other, price: 266
+other, url: https://www.wildberries.ru/catalog/152557734/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101196881735
+id: 5310950
+title: Стакан Дарим красиво 23 февраля 5310950, 250 мл, 1 шт., прозрачный
+price: 741
+category: Военный
+sku: 101196881735
+url: https://market.yandex.ru/product/101196881735
+yandex, name: RusExpress
+yandex, price: 457
+yandex, url: https://market.yandex.ru/product/847504042/offers?sku=101196881735&how=aprice
+sima-land, price: 375
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.wildberries.ru
+other, price: 532
+other, url: https://www.wildberries.ru/catalog/19939721/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101441235278
+id: 5454239
+title: Мицелий грибов Белый гриб березовый , 60 мл
+price: 398
+category: Грибы
+sku: 101441235278
+url: https://market.yandex.ru/product/101441235278
+yandex, name: СимаВосток
+yandex, price: 170
+yandex, url: https://market.yandex.ru/product/1433153885/offers?sku=101441235278&how=aprice
+sima-land, price: 107
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.ozon.ru
+other, price: 198
+other, url: https://www.ozon.ru/context/detail/id/288858611/
+updated: 2024-02-24 04:00:03
+
+item_number: 899727829
+id: 6958128
+title: Конструктор Sluban серия Модельки, артикул M38-B0890, Оружие М777 Гаубица 258 деталей
+price: 1205
+category: Sluban
+sku: 899727829
+url: https://market.yandex.ru/product/899727829
+yandex, name: Яндекс Маркет
+yandex, price: 561
+yandex, url: https://market.yandex.ru/product/1787726997/offers?sku=899727829&how=aprice
+sima-land, price: 575
+sima-land, updated: 2024-02-26 04:30:04
+other, name: www.wildberries.ru
+other, price: 566
+other, url: https://www.wildberries.ru/catalog/120007653/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101370452250
+id: 7182639
+title: Кальций D3 капс., 0.5 г, 90 шт.
+price: 912
+category: Витамины
+sku: 101370452250
+url: https://market.yandex.ru/product/101370452250
+yandex, name: GLS.Store. Официальный магазин GLS Pharmaceuticals
+yandex, price: 209
+yandex, url: https://market.yandex.ru/product/998345296/offers?sku=101370452250&how=aprice
+sima-land, price: 350
+sima-land, updated: 2024-02-26 04:30:05
+other, name: zdravcity.ru
+other, price: 331
+other, url: https://zdravcity.ru/p_kalcij-s-vitaminom-d3-kaps-500mg-n90-bad-0143075.html
+updated: 2024-02-24 04:00:03
+
+item_number: 101627849801
+id: 7318499
+title: Мягкая игрушка FANCY Кот Беляш , 28 см, белый
+price: 1580
+category: От 20 до 50 см
+sku: 101627849801
+url: https://market.yandex.ru/product/101627849801
+yandex, name: Kidztime
+yandex, price: 599
+yandex, url: https://market.yandex.ru/product/1700212335/offers?sku=101627849801&how=aprice
+sima-land, price: 775
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.ozon.ru
+other, price: 841
+other, url: https://www.ozon.ru/context/detail/id/833230362/
+updated: 2024-02-24 04:00:03
+
+item_number: 100904035110
+id: 7508239
+title: Компьютерное кресло Бюрократ CH-695NLT офисное, обивка: сетка/текстиль, цвет: черный
+price: 9106
+category: Кресла
+sku: 100904035110
+url: https://market.yandex.ru/product/100904035110
+yandex, name: ВоБаза
+yandex, price: 3590
+yandex, url: https://market.yandex.ru/product/658436604/offers?sku=100904035110&how=aprice
+sima-land, price: 4690
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.ozon.ru
+other, price: 3919
+other, url: https://www.ozon.ru/context/detail/id/621323141/
+updated: 2024-02-24 04:00:03
+
+item_number: 1477593926
+id: 9321282
+title: Кинетический песок Genio Kids c надувной песочницей SSN108, разноцветный, 2 кг, картонная пачка
+price: 3394
+category: Песок для лепки
+sku: 1477593926
+url: https://market.yandex.ru/product/1477593926
+yandex, name: Яндекс Маркет
+yandex, price: 814
+yandex, url: https://market.yandex.ru/product/1778058476/offers?sku=1477593926&how=aprice
+sima-land, price: 2199
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.ozon.ru
+other, price: 958
+other, url: https://www.ozon.ru/context/detail/id/318519305/
+updated: 2024-02-24 04:00:03
+
+item_number: 101796809620
+id: 9464488
+title: Спортивный жиросжигатель для похудения для мужчин и женщин, бад/средство / таблетки для снижения веса с , fat burner, 60 капсул
+price: 1379
+category: Добавки для коррекции фигуры
+sku: 101796809620
+url: https://market.yandex.ru/product/101796809620
+yandex, name: GLS.Store. Официальный магазин GLS Pharmaceuticals
+yandex, price: 483
+yandex, url: https://market.yandex.ru/product/1763542453/offers?sku=101796809620&how=aprice
+sima-land, price: 662
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.ozon.ru
+other, price: 507
+other, url: https://www.ozon.ru/context/detail/id/643867409/
+updated: 2024-02-24 04:00:03
+
+item_number: 101670269818
+id: 148415
+title: Magistro Заварочный чайник Мантана, 0.9 л, прозрачный
+price: 1007
+category: Заварочные чайники
+sku: 101670269818
+url: https://market.yandex.ru/product/101670269818
+yandex, name: Yasale
+yandex, price: 314
+yandex, url: https://market.yandex.ru/product/1760320229/offers?sku=101670269818&how=aprice
+sima-land, price: 359
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.wildberries.ru
+other, price: 491
+other, url: https://www.wildberries.ru/catalog/62340066/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 654576391
+id: 1250594
+title: Набор для опытов Эврики "Робот 14 в 1", электронный конструктор для мальчиков, работает от солнечной батареи
+price: 1883
+category: Робототехника
+sku: 654576391
+url: https://market.yandex.ru/product/654576391
+yandex, name: Moment2.0
+yandex, price: 741
+yandex, url: https://market.yandex.ru/product/1780652048/offers?sku=654576391&how=aprice
+sima-land, price: 930
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.wildberries.ru
+other, price: 800
+other, url: https://www.wildberries.ru/catalog/145118254/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 100485318899
+id: 1854563
+title: Термос для еды с контейнерами и столовыми приборами 1,5 л 403-1500 Арктика для трех блюд с ремнем
+price: 4132
+category: Термосы
+sku: 100485318899
+url: https://market.yandex.ru/product/100485318899
+yandex, name: ООО "Торговый Дом "Арктика"
+yandex, price: 1743
+yandex, url: https://market.yandex.ru/product/1721732435/offers?sku=100485318899&how=aprice
+sima-land, price: 2100
+sima-land, updated: 2024-02-26 04:30:05
+other, name: www.vseinstrumenti.ru
+other, price: 2150
+other, url: https://www.vseinstrumenti.ru/product/mnogofunktsionalnyj-termos-dlya-edy-arktika-1-5-l-403-1500-833817
+updated: 2024-02-24 04:00:03
+
+item_number: 100985360870
+id: 1997037
+title: Этажерка настенная Lesnikovo угловая 3-х ярусная ПУ-3 21х21х49 см, хром
+price: 1132
+category: Металлические полки
+sku: 100985360870
+url: https://market.yandex.ru/product/100985360870
+yandex, name: Discovery Pet
+yandex, price: 419
+yandex, url: https://market.yandex.ru/product/676649397/offers?sku=100985360870&how=aprice
+sima-land, price: 520
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.ozon.ru
+other, price: 689
+other, url: https://www.ozon.ru/context/detail/id/617772203/
+updated: 2024-02-24 04:00:03
+
+item_number: 101588577787
+id: 3819337
+title: Лампа декоративная светодиодная СТАРТ СТ59, 10 Вт, белый
+price: 3313
+category: Офисные и школьные лампы
+sku: 101588577787
+url: https://market.yandex.ru/product/101588577787
+yandex, name: AZETSHOP
+yandex, price: 1001
+yandex, url: https://market.yandex.ru/product/904348069/offers?sku=101588577787&how=aprice
+sima-land, price: 1439
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.vseinstrumenti.ru
+other, price: 1202
+other, url: https://www.vseinstrumenti.ru/electrika-i-svet/svetilniki/nastolnye-lampy/dlya-doma-i-ofisa/start/ct59-belyj
+updated: 2024-02-24 04:00:03
+
+item_number: 100395908062
+id: 4252793
+title: La'dor Маска для сухих и поврежденных волос Hydro LPP Treatment, 530 мл, бутылка
+price: 1444
+category: Маски
+sku: 100395908062
+url: https://market.yandex.ru/product/100395908062
+yandex, name: OK-shop
+yandex, price: 792
+yandex, url: https://market.yandex.ru/product/1971826677/offers?sku=100395908062&how=aprice
+sima-land, price: 1219
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.ozon.ru
+other, price: 792
+other, url: https://www.ozon.ru/context/detail/id/269462762/
+updated: 2024-02-24 04:00:03
+
+item_number: 101630419498
+id: 5394865
+title: Набор для ухода за авто "23 Февраля": силиконовая смазка 400 мл, полироль пластика 400 мл, очиститель салона 400 мл, чернитель шин 400 мл + микрофибра
+price: 1888
+category: Подарочные наборы
+sku: 101630419498
+url: https://market.yandex.ru/product/101630419498
+yandex, name: Дом Подарка
+yandex, price: 1220
+yandex, url: https://market.yandex.ru/product/1700697222/offers?sku=101630419498&how=aprice
+sima-land, price: 919
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.ozon.ru
+other, price: 1115
+other, url: https://www.ozon.ru/context/detail/id/1066095612/
+updated: 2024-02-24 04:00:03
+
+item_number: 101701665040
+id: 6628162
+title: Кашпо IDEA (М-Пластика) Шато, 29л, 30x30 см, коричневый ротанг
+price: 3040
+category: Кашпо, горшки из пластика
+sku: 101701665040
+url: https://market.yandex.ru/product/101701665040
+yandex, name: ДоброСтрой
+yandex, price: 1328
+yandex, url: https://market.yandex.ru/product/1743140882/offers?sku=101701665040&how=aprice
+sima-land, price: 1240
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.wildberries.ru
+other, price: 1492
+other, url: https://www.wildberries.ru/catalog/174947959/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101550068875
+id: 6881663
+title: Today Parfum / CrocoMAN Blanc, 100 мл / Кроко Мен Бланк / Мужская туалетная вода
+price: 577
+category: Недорогая парфюмерия
+sku: 101550068875
+url: https://market.yandex.ru/product/101550068875
+yandex, name: Delta Parfum
+yandex, price: 239
+yandex, url: https://market.yandex.ru/product/1496647607/offers?sku=101550068875&how=aprice
+sima-land, price: 199
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.wildberries.ru
+other, price: 262
+other, url: https://www.wildberries.ru/catalog/41265187/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101908732861
+id: 6964719
+title: Когтеточка Когтедралка Крафт 50 x 24 x 2.5 см
+price: 570
+category: Когтеточки из гофрокартона
+sku: 101908732861
+url: https://market.yandex.ru/product/101908732861
+yandex, name: Торговый Дом Сказка
+yandex, price: 162
+yandex, url: https://market.yandex.ru/product/1769509251/offers?sku=101908732861&how=aprice
+sima-land, price: 193
+sima-land, updated: 2024-02-26 04:30:06
+other, name: www.wildberries.ru
+other, price: 225
+other, url: https://www.wildberries.ru/catalog/74991139/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 100623314833
+id: 7085622
+title: Alan Bray туалетная вода L'Homme Adventure, 100 мл, 395 г
+price: 2232
+category: Недорогая парфюмерия
+sku: 100623314833
+url: https://market.yandex.ru/product/100623314833
+yandex, name: ООО "Клас-трейдинг"
+yandex, price: 1046
+yandex, url: https://market.yandex.ru/product/241616228/offers?sku=100623314833&how=aprice
+sima-land, price: 1149
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.ozon.ru
+other, price: 1177
+other, url: https://www.ozon.ru/context/detail/id/658875912/
+updated: 2024-02-24 04:00:03
+
+item_number: 100623313985
+id: 7085624
+title: Alan Bray туалетная вода L'Homme Seduction, 100 мл
+price: 2229
+category: Недорогая парфюмерия
+sku: 100623313985
+url: https://market.yandex.ru/product/100623313985
+yandex, name: СимаВосток
+yandex, price: 859
+yandex, url: https://market.yandex.ru/product/241617132/offers?sku=100623313985&how=aprice
+sima-land, price: 1125
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.wildberries.ru
+other, price: 1179
+other, url: https://www.wildberries.ru/catalog/152251606/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 100779097951
+id: 7085746
+title: Christine Lavoisier Parfums туалетная вода Domenico & Gusto Deep Blue, 100 мл, 364 г
+price: 1300
+category: Недорогая парфюмерия
+sku: 100779097951
+url: https://market.yandex.ru/product/100779097951
+yandex, name: ООО "Клас-трейдинг"
+yandex, price: 626
+yandex, url: https://market.yandex.ru/product/567012195/offers?sku=100779097951&how=aprice
+sima-land, price: 619
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.ozon.ru
+other, price: 640
+other, url: https://www.ozon.ru/context/detail/id/149986990/
+updated: 2024-02-24 04:00:03
+
+item_number: 101770664448
+id: 7122727
+title: Сумка-холодильник (термосумка) 40л (32х41х31 см) цвет черный/оранжевый (AIRLINE)
+price: 3683
+category: Термосумки
+sku: 101770664448
+url: https://market.yandex.ru/product/101770664448
+yandex, name: Carvilleshop
+yandex, price: 1147
+yandex, url: https://market.yandex.ru/product/1809133483/offers?sku=101770664448&how=aprice
+sima-land, price: 1574
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.wildberries.ru
+other, price: 1391
+other, url: https://www.wildberries.ru/catalog/36113980/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101847208382
+id: 7430274
+title: Игра Электровикторина для малышей - Развивай-ка, развивающая игра, 1 коробка
+price: 1346
+category: Викторины
+sku: 101847208382
+url: https://market.yandex.ru/product/101847208382
+yandex, name: Магазин игрушек Abtoys
+yandex, price: 484
+yandex, url: https://market.yandex.ru/product/1820492931/offers?sku=101847208382&how=aprice
+sima-land, price: 579
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.ozon.ru
+other, price: 568
+other, url: https://www.ozon.ru/context/detail/id/514413820/
+updated: 2024-02-24 04:00:03
+
+item_number: 100741126740
+id: 9049508
+title: Dilis Parfum туалетная вода Unique Sunny, 100 мл
+price: 2181
+category: Недорогая парфюмерия
+sku: 100741126740
+url: https://market.yandex.ru/product/100741126740
+yandex, name: BELORIS
+yandex, price: 712
+yandex, url: https://market.yandex.ru/product/1727739011/offers?sku=100741126740&how=aprice
+sima-land, price: 1099
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.ozon.ru
+other, price: 1079
+other, url: https://www.ozon.ru/context/detail/id/811850263/
+updated: 2024-02-24 04:00:03
+
+item_number: 101931730717
+id: 9346680
+title: Стакан стеклянный Magistro «Грани», 260 мл, 7,5×9,5 см, круглое дно, цвет графит
+price: 577
+category: Стаканы
+sku: 101931730717
+url: https://market.yandex.ru/product/101931730717
+yandex, name: SKYPHOS
+yandex, price: 274
+yandex, url: https://market.yandex.ru/product/1937825649/offers?sku=101931730717&how=aprice
+sima-land, price: 252
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.wildberries.ru
+other, price: 279
+other, url: https://www.wildberries.ru/catalog/181927331/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 8237824
+id: 9675891
+title: Насосная станция фекальный насос JEMIX GS 400 (400 Вт)
+price: 7843
+category: 
+sku: 8237824
+url: https://market.yandex.ru/product/8237824
+yandex, name: Санти
+yandex, price: 2550
+yandex, url: https://market.yandex.ru/product/1780049722/offers?sku=8237824&how=aprice
+sima-land, price: 3199
+sima-land, updated: 2024-02-26 04:30:07
+other, name: www.wildberries.ru
+other, price: 2514
+other, url: https://www.wildberries.ru/catalog/173875549/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 100780906974
+id: 9756482
+title: Грим Тушь для ресниц Ленинградская, черный
+price: 342
+category: Косметика для бровей
+sku: 100780906974
+url: https://market.yandex.ru/product/100780906974
+yandex, name: Непростой магазин
+yandex, price: 181
+yandex, url: https://market.yandex.ru/product/569264220/offers?sku=100780906974&how=aprice
+sima-land, price: 75
+sima-land, updated: 2024-02-26 04:30:08
+other, name: www.wildberries.ru
+other, price: 155
+other, url: https://www.wildberries.ru/catalog/77150639/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 101803644748
+id: 9756669
+title: Бутылка для холодных напитков С петлей 400 мл (светло-бежевый)
+price: 575
+category: Ёмкости для жидкости
+sku: 101803644748
+url: https://market.yandex.ru/product/101803644748
+yandex, name: FACKELMANN Brands
+yandex, price: 257
+yandex, url: https://market.yandex.ru/product/21211602/offers?sku=101803644748&how=aprice
+sima-land, price: 198
+sima-land, updated: 2024-02-26 04:30:08
+other, name: www.wildberries.ru
+other, price: 349
+other, url: https://www.wildberries.ru/catalog/179723731/detail.aspx
+updated: 2024-02-24 04:00:03
+
+item_number: 1736605179
+id: 143922
+title: Queen Fair набор ароматических масел 143922, 3 мл х 12 шт.
+price: 500
+category: Наборы с аромамаслами
+sku: 1736605179
+url: https://market.yandex.ru/product/1736605179
+yandex, name: Фабрика успеха
+yandex, price: 300
+yandex, url: https://market.yandex.ru/product/1777975977/offers?sku=1736605179&how=aprice
+sima-land, price: 175
+sima-land, updated: 2024-02-26 04:30:08
+other, name: www.ozon.ru
+other, price: 336
+other, url: https://www.ozon.ru/context/detail/id/348402676/
+updated: 2024-02-24 04:00:04
+
+item_number: 356695088
+id: 798895
+title: Стремянка Nika СМ, 4 ст.
+price: 5206
+category: Стремянки
+sku: 356695088
+url: https://market.yandex.ru/product/356695088
+yandex, name: Хорошие покупки
+yandex, price: 1785
+yandex, url: https://market.yandex.ru/product/1778140407/offers?sku=356695088&how=aprice
+sima-land, price: 1659
+sima-land, updated: 2024-02-26 04:30:08
+other, name: leroymerlin.ru
+other, price: 1750
+other, url: https://leroymerlin.ru/product/stremyanka-stalnaya-nika-48519-93847782
+updated: 2024-02-24 04:00:04
+
+item_number: 101204380098
+id: 1038043
+title: Тюль Лента 03С1938-Г50 на ленте, 245х165 см, 1 шт., белый
+price: 1337
+category: Шторы
+sku: 101204380098
+url: https://market.yandex.ru/product/101204380098
+yandex, name: ЛентаБел
+yandex, price: 680
+yandex, url: https://market.yandex.ru/product/854371240/offers?sku=101204380098&how=aprice
+sima-land, price: 583
+sima-land, updated: 2024-02-26 04:30:08
+other, name: leroymerlin.ru
+other, price: 615
+other, url: https://leroymerlin.ru/product/zanaveska-na-lente-azhur-17815741
+updated: 2024-02-24 04:00:04
+
+item_number: 100298095870
+id: 1229040
+title: Надувной матрас PAVILLO Easy Inflate Flocked Air Bed 67224, 188х99 см, синий
+price: 0
+category: Матрасы
+sku: 100298095870
+url: https://market.yandex.ru/product/100298095870
+yandex, name: BE STRONG
+yandex, price: 1564
+yandex, url: https://market.yandex.ru/product/1726891711/offers?sku=100298095870&how=aprice
+sima-land, price: 1650
+sima-land, updated: 2024-02-26 04:30:08
+other, name: www.ozon.ru
+other, price: 1264
+other, url: https://www.ozon.ru/context/detail/id/260886461/
+updated: 2024-02-24 04:00:04
+
+item_number: 100693507870
+id: 1272208
+title: Paris Line Parfums туалетная вода Dollar, 100 мл, 310 г
+price: 852
+category: Недорогая парфюмерия
+sku: 100693507870
+url: https://market.yandex.ru/product/100693507870
+yandex, name: Ляромат
+yandex, price: 310
+yandex, url: https://market.yandex.ru/product/497005016/offers?sku=100693507870&how=aprice
+sima-land, price: 349
+sima-land, updated: 2024-02-26 04:30:08
+other, name: www.wildberries.ru
+other, price: 382
+other, url: https://www.wildberries.ru/catalog/199992521/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 100782788916
+id: 1944749
+title: Velvet Крем для депиляции для чувствительной кожи и зоны бикини 100 мл 120 г
+price: 475
+category: Кремы
+sku: 100782788916
+url: https://market.yandex.ru/product/100782788916
+yandex, name: АПТЕКА-ИНФО
+yandex, price: 177
+yandex, url: https://market.yandex.ru/product/572066181/offers?sku=100782788916&how=aprice
+sima-land, price: 169
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.wildberries.ru
+other, price: 219
+other, url: https://www.wildberries.ru/catalog/26000795/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101453705735
+id: 2362197
+title: Часы настенные кварцевые Рубин Классика 3027-121, черный
+price: 1184
+category: Классические часы
+sku: 101453705735
+url: https://market.yandex.ru/product/101453705735
+yandex, name: Intek-home
+yandex, price: 607
+yandex, url: https://market.yandex.ru/product/1430905548/offers?sku=101453705735&how=aprice
+sima-land, price: 499
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.ozon.ru
+other, price: 623
+other, url: https://www.ozon.ru/context/detail/id/1005965434/
+updated: 2024-02-24 04:00:04
+
+item_number: 101065223763
+id: 4357054
+title: Термос "Мастер К." 500 мл, сохраняет тепло 8 ч, 23.3 х 6.5 см, черный
+price: 704
+category: Термосы
+sku: 101065223763
+url: https://market.yandex.ru/product/101065223763
+yandex, name: Фабрика успеха
+yandex, price: 393
+yandex, url: https://market.yandex.ru/product/707499020/offers?sku=101065223763&how=aprice
+sima-land, price: 248
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.ozon.ru
+other, price: 449
+other, url: https://www.ozon.ru/context/detail/id/496263560/
+updated: 2024-02-24 04:00:04
+
+item_number: 101738674972
+id: 4534999
+title: FT-R38B-N Акустическая гитара, цвет натуральный, Fante
+price: 0
+category: Акустические и классические гитары
+sku: 101738674972
+url: https://market.yandex.ru/product/101738674972
+yandex, name: Muz Sound
+yandex, price: 3150
+yandex, url: https://market.yandex.ru/product/1753591618/offers?sku=101738674972&how=aprice
+sima-land, price: 3190
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.ozon.ru
+other, price: 3150
+other, url: https://www.ozon.ru/context/detail/id/639361897/
+updated: 2024-02-24 04:00:04
+
+item_number: 1732564998
+id: 4564693
+title: Электрическая тепловая пушка электрод зажигания Denzel DHC 2-100 без горелки (2 кВт) желтый
+price: 5367
+category: Тепловые пушки
+sku: 1732564998
+url: https://market.yandex.ru/product/1732564998
+yandex, name: МИР ИНСТРУМЕНТА
+yandex, price: 1554
+yandex, url: https://market.yandex.ru/product/1780761096/offers?sku=1732564998&how=aprice
+sima-land, price: 2170
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.wildberries.ru
+other, price: 2169
+other, url: https://www.wildberries.ru/catalog/9481543/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 100945213879
+id: 4827205
+title: Сушилка для белья Nika настенно-потолочная СНП 1,8, белый
+price: 2390
+category: Сушилки для белья
+sku: 100945213879
+url: https://market.yandex.ru/product/100945213879
+yandex, name: Uratorg
+yandex, price: 710
+yandex, url: https://market.yandex.ru/product/667171027/offers?sku=100945213879&how=aprice
+sima-land, price: 759
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.ozon.ru
+other, price: 1108
+other, url: https://www.ozon.ru/context/detail/id/239064908/
+updated: 2024-02-24 04:00:04
+
+item_number: 101469558820
+id: 4964798
+title: Горшок для цветов «Япония», 2 л, цвет белый
+price: 538
+category: Горшки для цветов
+sku: 101469558820
+url: https://market.yandex.ru/product/101469558820
+yandex, name: EL'HOME
+yandex, price: 273
+yandex, url: https://market.yandex.ru/product/1455003503/offers?sku=101469558820&how=aprice
+sima-land, price: 155
+sima-land, updated: 2024-02-26 04:30:09
+other, name: www.wildberries.ru
+other, price: 339
+other, url: https://www.wildberries.ru/catalog/136065187/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 100929053930
+id: 5065488
+title: Компьютерное кресло Бюрократ CH-1300N офисное, обивка: текстиль, цвет: черный 3C11
+price: 7729
+category: Кресла
+sku: 100929053930
+url: https://market.yandex.ru/product/100929053930
+yandex, name: ПОЗИТРОНИКА
+yandex, price: 3281
+yandex, url: https://market.yandex.ru/product/539499017/offers?sku=100929053930&how=aprice
+sima-land, price: 4189
+sima-land, updated: 2024-02-26 04:30:10
+other, name: www.wildberries.ru
+other, price: 3892
+other, url: https://www.wildberries.ru/catalog/88017589/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101247708179
+id: 5303338
+title: Сумка тоут Сима-ленд, коричневый, бежевый
+price: 1597
+category: Сумки-тоут
+sku: 101247708179
+url: https://market.yandex.ru/product/101247708179
+yandex, name: Дом Подарка
+yandex, price: 800
+yandex, url: https://market.yandex.ru/product/888907003/offers?sku=101247708179&how=aprice
+sima-land, price: 483
+sima-land, updated: 2024-02-26 04:30:10
+other, name: None
+other, price: None
+other, url: None
+updated: 2024-02-24 04:00:04
+
+item_number: 101262573349
+id: 5425733
+title: Набор бокалов Pasabahce Amorf 420224B, 340 мл, 4 шт., прозрачный
+price: 1073
+category: Стаканы
+sku: 101262573349
+url: https://market.yandex.ru/product/101262573349
+yandex, name: Ценам.нет
+yandex, price: 482
+yandex, url: https://market.yandex.ru/product/902701135/offers?sku=101262573349&how=aprice
+sima-land, price: 565
+sima-land, updated: 2024-02-26 04:30:10
+other, name: www.maxidom.ru
+other, price: 599
+other, url: https://www.maxidom.ru/catalog/stakany-v-naborah/1001371942/
+updated: 2024-02-24 04:00:04
+
+item_number: 100735718754
+id: 7085787
+title: Vero Uomo туалетная вода San Francisco Blue, 100 мл, 378 г
+price: 1539
+category: Недорогая парфюмерия
+sku: 100735718754
+url: https://market.yandex.ru/product/100735718754
+yandex, name: ООО "Клас-трейдинг"
+yandex, price: 682
+yandex, url: https://market.yandex.ru/product/95898215/offers?sku=100735718754&how=aprice
+sima-land, price: 749
+sima-land, updated: 2024-02-26 04:30:10
+other, name: www.ozon.ru
+other, price: 694
+other, url: https://www.ozon.ru/context/detail/id/937511630/
+updated: 2024-02-24 04:00:04
+
+item_number: 101646066059
+id: 7152158
+title: Ручка «С 23 февраля», пластик
+price: 366
+category: Сувенирные ручки
+sku: 101646066059
+url: https://market.yandex.ru/product/101646066059
+yandex, name: RusExpress
+yandex, price: 266
+yandex, url: https://market.yandex.ru/product/1736219329/offers?sku=101646066059&how=aprice
+sima-land, price: 79
+sima-land, updated: 2024-02-26 04:30:10
+other, name: www.wildberries.ru
+other, price: 266
+other, url: https://www.wildberries.ru/catalog/169959342/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 102034655010
+id: 9433848
+title: Сумка клатч Romanoff, черный
+price: 1268
+category: Клатчи
+sku: 102034655010
+url: https://market.yandex.ru/product/102034655010
+yandex, name: Фабрика успеха
+yandex, price: 680
+yandex, url: https://market.yandex.ru/product/1868249621/offers?sku=102034655010&how=aprice
+sima-land, price: 537
+sima-land, updated: 2024-02-26 04:30:10
+other, name: None
+other, price: None
+other, url: None
+updated: 2024-02-24 04:00:04
+
+item_number: 101896726098
+id: 9543709
+title: Набор кухонных принадлежностей, лопатка кулинарная не силиконовая, посуда
+price: 424
+category: Наборы кухонных принадлежностей
+sku: 101896726098
+url: https://market.yandex.ru/product/101896726098
+yandex, name: Alliance market
+yandex, price: 168
+yandex, url: https://market.yandex.ru/product/1854842551/offers?sku=101896726098&how=aprice
+sima-land, price: 112
+sima-land, updated: 2024-02-26 04:30:10
+other, name: www.wildberries.ru
+other, price: 168
+other, url: https://www.wildberries.ru/catalog/153357105/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 102611748078
+id: 9688993
+title: Тапочки LoveLife, размер 40/41, белый, черный
+price: 0
+category: Тапочки
+sku: 102611748078
+url: https://market.yandex.ru/product/102611748078
+yandex, name: Tex.you
+yandex, price: 970
+yandex, url: https://market.yandex.ru/product/43323661/offers?sku=102611748078&how=aprice
+sima-land, price: 489
+sima-land, updated: 2024-02-26 04:30:11
+other, name: None
+other, price: None
+other, url: None
+updated: 2024-02-24 04:00:04
+
+item_number: 101415917041
+id: 1237559
+title: Панель ПВХ стеновая GRACE Камень натуральный ТП10007349, 0.24 кг., длина 98 смкамень
+price: 530
+category: Листовые панели ПВХ
+sku: 101415917041
+url: https://market.yandex.ru/product/101415917041
+yandex, name: OBI
+yandex, price: 175
+yandex, url: https://market.yandex.ru/product/1409877000/offers?sku=101415917041&how=aprice
+sima-land, price: 145
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.wildberries.ru
+other, price: 308
+other, url: https://www.wildberries.ru/catalog/74721792/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101788818856
+id: 2677054
+title: Развивающий набор «Котята на лесенке», игрушка для детей
+price: 1346
+category: Развивающие игрушки, игрушки на логику
+sku: 101788818856
+url: https://market.yandex.ru/product/101788818856
+yandex, name: Dolce Kids toys
+yandex, price: 151
+yandex, url: https://market.yandex.ru/product/1760647049/offers?sku=101788818856&how=aprice
+sima-land, price: 579
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.ozon.ru
+other, price: 831
+other, url: https://www.ozon.ru/context/detail/id/664377016/
+updated: 2024-02-24 04:00:04
+
+item_number: 100440655120
+id: 2878026
+title: Сушилка для белья Nika настенная, серый
+price: 1126
+category: Сушилки для белья
+sku: 100440655120
+url: https://market.yandex.ru/product/100440655120
+yandex, name: EL'HOME
+yandex, price: 471
+yandex, url: https://market.yandex.ru/product/150951137/offers?sku=100440655120&how=aprice
+sima-land, price: 580
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.vseinstrumenti.ru
+other, price: 584
+other, url: https://www.vseinstrumenti.ru/product/sushilka-dlya-belya-nika-nastennaya-nika-sn60-1209078
+updated: 2024-02-24 04:00:04
+
+item_number: 101086794370
+id: 4077346
+title: PontiParfum одеколон Все путем, 85 мл, 196 г
+price: 419
+category: Недорогая парфюмерия
+sku: 101086794370
+url: https://market.yandex.ru/product/101086794370
+yandex, name: СимаВосток
+yandex, price: 139
+yandex, url: https://market.yandex.ru/product/733851291/offers?sku=101086794370&how=aprice
+sima-land, price: 109
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.ozon.ru
+other, price: 304
+other, url: https://www.ozon.ru/context/detail/id/1313481375/
+updated: 2024-02-24 04:00:04
+
+item_number: 101461825579
+id: 4127513
+title: Люстра "Милана" 3x40Вт E27 черный 52х45х17 см
+price: 3090
+category: Эконом
+sku: 101461825579
+url: https://market.yandex.ru/product/101461825579
+yandex, name: Фабрика успеха
+yandex, price: 1511
+yandex, url: https://market.yandex.ru/product/1449078590/offers?sku=101461825579&how=aprice
+sima-land, price: 1300
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.wildberries.ru
+other, price: 1511
+other, url: https://www.wildberries.ru/catalog/71803842/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101783412122
+id: 4516158
+title: Подарочный набор «23 февраля медведь»: ежедневник и термостакан
+price: 968
+category: Подарочные наборы
+sku: 101783412122
+url: https://market.yandex.ru/product/101783412122
+yandex, name: Razzzrabotki
+yandex, price: 661
+yandex, url: https://market.yandex.ru/product/1759185261/offers?sku=101783412122&how=aprice
+sima-land, price: 399
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.ozon.ru
+other, price: 643
+other, url: https://www.ozon.ru/context/detail/id/835571474/
+updated: 2024-02-24 04:00:04
+
+item_number: 101489905599
+id: 4708366
+title: Бокал стеклянный Magistro «Синичка» Magistro, 10,5×7×20 см, 100 мл
+price: 1154
+category: Бокалы, фужеры
+sku: 101489905599
+url: https://market.yandex.ru/product/101489905599
+yandex, name: EL'HOME
+yandex, price: 554
+yandex, url: https://market.yandex.ru/product/1736152381/offers?sku=101489905599&how=aprice
+sima-land, price: 640
+sima-land, updated: 2024-02-26 04:30:11
+other, name: www.wildberries.ru
+other, price: 636
+other, url: https://www.wildberries.ru/catalog/76657266/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101647727781
+id: 4826331
+title: Набор бокалов Magistro Круиз для вина, 250 мл, 2 шт., розовый
+price: 1018
+category: Бокалы, фужеры
+sku: 101647727781
+url: https://market.yandex.ru/product/101647727781
+yandex, name: EL'HOME
+yandex, price: 629
+yandex, url: https://market.yandex.ru/product/1736460351/offers?sku=101647727781&how=aprice
+sima-land, price: 551
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.ozon.ru
+other, price: 657
+other, url: https://www.ozon.ru/context/detail/id/546836332/
+updated: 2024-02-24 04:00:04
+
+item_number: 101456517580
+id: 5139405
+title: Набор пиал Риштанская Керамика 9,5см, 6шт подар упак
+price: 1376
+category: Чайные и кофейные сервизы
+sku: 101456517580
+url: https://market.yandex.ru/product/101456517580
+yandex, name: EL'HOME
+yandex, price: 874
+yandex, url: https://market.yandex.ru/product/1445788992/offers?sku=101456517580&how=aprice
+sima-land, price: 650
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.wildberries.ru
+other, price: 1102
+other, url: https://www.wildberries.ru/catalog/181053632/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 100971069807
+id: 5206025
+title: Lebelage крем High Protection Extreme SPF 50, 30 мл
+price: 492
+category: Средства от загара
+sku: 100971069807
+url: https://market.yandex.ru/product/100971069807
+yandex, name: Korean Beauty
+yandex, price: 218
+yandex, url: https://market.yandex.ru/product/674811596/offers?sku=100971069807&how=aprice
+sima-land, price: 160
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.letu.ru
+other, price: 262
+other, url: https://www.letu.ru/product/lebelage-krem-solntsezashchitnyi-vodostoikii-high-protection-extreme-sun-cream-spf50-pa-/116600601/sku/131900699
+updated: 2024-02-24 04:00:04
+
+item_number: 101462896784
+id: 6907099
+title: Плакат "Обучайка по русскому языку 3-4 класс" А2
+price: 336
+category: Плакаты и гирлянды
+sku: 101462896784
+url: https://market.yandex.ru/product/101462896784
+yandex, name: MEGA-TRADE
+yandex, price: 199
+yandex, url: https://market.yandex.ru/product/1449656069/offers?sku=101462896784&how=aprice
+sima-land, price: 64
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.ozon.ru
+other, price: 205
+other, url: https://www.ozon.ru/context/detail/id/473967007/
+updated: 2024-02-24 04:00:04
+
+item_number: 101323546400
+id: 7011738
+title: Today Parfum туалетная вода Pro-Energy Platinum, 100 мл, 255 г
+price: 577
+category: Недорогая парфюмерия
+sku: 101323546400
+url: https://market.yandex.ru/product/101323546400
+yandex, name: Империя красоты.
+yandex, price: 241
+yandex, url: https://market.yandex.ru/product/961030572/offers?sku=101323546400&how=aprice
+sima-land, price: 199
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.ozon.ru
+other, price: 273
+other, url: https://www.ozon.ru/context/detail/id/1337919469/
+updated: 2024-02-24 04:00:04
+
+item_number: 913722672
+id: 7435643
+title: Электролобзик P.I.T. PST70-C1, 700 Вт серый/черный
+price: 0
+category: Лобзики
+sku: 913722672
+url: https://market.yandex.ru/product/913722672
+yandex, name: Pioneer24
+yandex, price: 2364
+yandex, url: https://market.yandex.ru/product/1780247921/offers?sku=913722672&how=aprice
+sima-land, price: 3150
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.wildberries.ru
+other, price: 2553
+other, url: https://www.wildberries.ru/catalog/198240594/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101413165729
+id: 7504101
+title: Инозитол Максиферт капс., 90 шт.
+price: 1040
+category: Женское здоровье
+sku: 101413165729
+url: https://market.yandex.ru/product/101413165729
+yandex, name: GLS.Store. Официальный магазин GLS Pharmaceuticals
+yandex, price: 473
+yandex, url: https://market.yandex.ru/product/1410450417/offers?sku=101413165729&how=aprice
+sima-land, price: 440
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.ozon.ru
+other, price: 467
+other, url: https://www.ozon.ru/context/detail/id/302313862/
+updated: 2024-02-24 04:00:04
+
+item_number: 101924030384
+id: 9498346
+title: Косметический набор мужской Formula Seхy №8, гель для душа 250 мл+шампунь 250 мл
+price: 815
+category: Подарочные наборы
+sku: 101924030384
+url: https://market.yandex.ru/product/101924030384
+yandex, name: Formula SEXY
+yandex, price: 437
+yandex, url: https://market.yandex.ru/product/1828265847/offers?sku=101924030384&how=aprice
+sima-land, price: 339
+sima-land, updated: 2024-02-26 04:30:12
+other, name: www.ozon.ru
+other, price: 437
+other, url: https://www.ozon.ru/context/detail/id/758451176/
+updated: 2024-02-24 04:00:04
+
+item_number: 101944161145
+id: 9502835
+title: Картина по номерам "Девочка с косичками", "Семейка Аддамс", Уенздей, размер: 21х15 см, для детей
+price: 671
+category: 
+sku: 101944161145
+url: https://market.yandex.ru/product/101944161145
+yandex, name: WooW Toys
+yandex, price: 238
+yandex, url: https://market.yandex.ru/product/1817045098/offers?sku=101944161145&how=aprice
+sima-land, price: 260
+sima-land, updated: 2024-02-26 04:30:13
+other, name: www.ozon.ru
+other, price: 278
+other, url: https://www.ozon.ru/context/detail/id/845767495/
+updated: 2024-02-24 04:00:04
+
+item_number: 102414223807
+id: 9643338
+title: Коврик для ванной, 50×80 см, цвет черный, SAVANNA
+price: 0
+category: Коврики для ванны
+sku: 102414223807
+url: https://market.yandex.ru/product/102414223807
+yandex, name: ООО "ТероПром"
+yandex, price: 479
+yandex, url: https://market.yandex.ru/product/3563635/offers?sku=102414223807&how=aprice
+sima-land, price: 419
+sima-land, updated: 2024-02-26 04:30:13
+other, name: www.ozon.ru
+other, price: 687
+other, url: https://www.ozon.ru/context/detail/id/1318909910/
+updated: 2024-02-24 04:00:04
+
+item_number: 102598359798
+id: 10198688
+title: Костюм MIST, размер 48/50, бежевый
+price: 0
+category: Костюмы
+sku: 102598359798
+url: https://market.yandex.ru/product/102598359798
+yandex, name: Tex.you
+yandex, price: 3571
+yandex, url: https://market.yandex.ru/product/42249792/offers?sku=102598359798&how=aprice
+sima-land, price: 1990
+sima-land, updated: 2024-02-26 04:30:13
+other, name: None
+other, price: None
+other, url: None
+updated: 2024-02-24 04:00:04
+
+item_number: 101998284548
+id: 10277589
+title: Пеларгония (Герань) Люстра Найт Виолет, изысканно декоративна, герань с темным листом, может цвести круглый год, 4 шт семян
+price: 0
+category: Пеларгония
+sku: 101998284548
+url: https://market.yandex.ru/product/101998284548
+yandex, name: Дом семян
+yandex, price: 181
+yandex, url: https://market.yandex.ru/product/1840086038/offers?sku=101998284548&how=aprice
+sima-land, price: 60
+sima-land, updated: 2024-02-26 04:30:13
+other, name: www.ozon.ru
+other, price: 246
+other, url: https://www.ozon.ru/context/detail/id/792269286/
+updated: 2024-02-24 04:00:04
+
+item_number: 101860148280
+id: 10307182
+title: Витамин Д3 Immunit шипучие таблетки 20 штук витамины и минералы для лучшего усвоения кальция, для укрепления костей и зубов
+price: 0
+category: Витамины
+sku: 101860148280
+url: https://market.yandex.ru/product/101860148280
+yandex, name: ООО "АЛМАСА"
+yandex, price: 210
+yandex, url: https://market.yandex.ru/product/1778724753/offers?sku=101860148280&how=aprice
+sima-land, price: 166
+sima-land, updated: 2024-02-26 04:30:13
+other, name: www.wildberries.ru
+other, price: 267
+other, url: https://www.wildberries.ru/catalog/142904599/detail.aspx
+updated: 2024-02-24 04:00:04
+
+item_number: 101719569730
+id: 159572
+title: Ваза Evis Шаровая 1806, прозрачный
+price: 2563
+category: Стеклянные вазы
+sku: 101719569730
+url: https://market.yandex.ru/product/101719569730
+yandex, name: "Порядок" товары для дома и дачи
+yandex, price: 785
+yandex, url: https://market.yandex.ru/product/1747910028/offers?sku=101719569730&how=aprice
+sima-land, price: 1250
+sima-land, updated: 2024-02-26 04:30:13
+other, name: www.ozon.ru
+other, price: 1652
+other, url: https://www.ozon.ru/context/detail/id/551219844/
+updated: 2024-02-24 04:00:05
+
+item_number: 1729044709
+id: 464524
+title: Настольная игра «Морской бой»
+price: 1485
+category: Морской бой
+sku: 1729044709
+url: https://market.yandex.ru/product/1729044709
+yandex, name: Озорная Кряква
+yandex, price: 559
+yandex, url: https://market.yandex.ru/product/1780597613/offers?sku=1729044709&how=aprice
+sima-land, price: 649
+sima-land, updated: 2024-02-26 04:30:13
+other, name: None
+other, price: None
+other, url: None
+updated: 2024-02-24 04:00:05
+
+item_number: 100722930057
+id: 2387939
+title: Стульчик для кормления детей 615х510х910 мм, М6247 Альтернатива
+price: 4155
+category: Стулья
+sku: 100722930057
+url: https://market.yandex.ru/product/100722930057
+yandex, name: Вертикаль
+yandex, price: 1983
+yandex, url: https://market.yandex.ru/product/518211178/offers?sku=100722930057&how=aprice
+sima-land, price: 1595
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.ozon.ru
+other, price: 1921
+other, url: https://www.ozon.ru/context/detail/id/361294933/
+updated: 2024-02-24 04:00:05
+
+item_number: 100981190890
+id: 2447155
+title: Реставратор-полироль пластика LAVR, 120 мл, Ln1459-L
+price: 780
+category: Полироли и очистители пластика
+sku: 100981190890
+url: https://market.yandex.ru/product/100981190890
+yandex, name: LAVR chemical company
+yandex, price: 196
+yandex, url: https://market.yandex.ru/product/676028000/offers?sku=100981190890&how=aprice
+sima-land, price: 189
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.wildberries.ru
+other, price: 278
+other, url: https://www.wildberries.ru/catalog/124221403/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 352566020
+id: 2772939
+title: Научный опыт Эврики "Строение тела человека", анатомия для детей
+price: 1180
+category: Биология
+sku: 352566020
+url: https://market.yandex.ru/product/352566020
+yandex, name: Дубовый янтарь
+yandex, price: 523
+yandex, url: https://market.yandex.ru/product/1780651597/offers?sku=352566020&how=aprice
+sima-land, price: 550
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.wildberries.ru
+other, price: 736
+other, url: https://www.wildberries.ru/catalog/196820025/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 101670501919
+id: 3904531
+title: Глянцевая плёнка Сима-ленд Листики, прозрачный
+price: 587
+category: Самоклеящаяся плёнка
+sku: 101670501919
+url: https://market.yandex.ru/product/101670501919
+yandex, name: EL'HOME
+yandex, price: 300
+yandex, url: https://market.yandex.ru/product/1740253298/offers?sku=101670501919&how=aprice
+sima-land, price: 230
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.ozon.ru
+other, price: 687
+other, url: https://www.ozon.ru/context/detail/id/917158313/
+updated: 2024-02-24 04:00:05
+
+item_number: 101246816792
+id: 4010853
+title: Стеллаж над унитазом 47х25х152 см, цвет чёрный 4010853
+price: 3108
+category: Стойки для вещей
+sku: 101246816792
+url: https://market.yandex.ru/product/101246816792
+yandex, name: EL'HOME
+yandex, price: 2009
+yandex, url: https://market.yandex.ru/product/887997052/offers?sku=101246816792&how=aprice
+sima-land, price: 1749
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.ozon.ru
+other, price: 2024
+other, url: https://www.ozon.ru/context/detail/id/286302139/
+updated: 2024-02-24 04:00:05
+
+item_number: 101407953582
+id: 4077352
+title: Бумага силиконизированная для выпечки 50м х 38 см рулон
+price: 1025
+category: Бумага для выпекания
+sku: 101407953582
+url: https://market.yandex.ru/product/101407953582
+yandex, name: ЛИГА-ПАК-производим товары для выпечки и запекания
+yandex, price: 468
+yandex, url: https://market.yandex.ru/product/675547283/offers?sku=101407953582&how=aprice
+sima-land, price: 399
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.ozon.ru
+other, price: 454
+other, url: https://www.ozon.ru/context/detail/id/306476322/
+updated: 2024-02-24 04:00:05
+
+item_number: 668390250
+id: 4535003
+title: Вестерн-гитара Fante FT-D38-BK (без звукоснимателя) черный
+price: 0
+category: Акустические и классические гитары
+sku: 668390250
+url: https://market.yandex.ru/product/668390250
+yandex, name: BIGTV
+yandex, price: 3113
+yandex, url: https://market.yandex.ru/product/1777935741/offers?sku=668390250&how=aprice
+sima-land, price: 3190
+sima-land, updated: 2024-02-26 04:30:14
+other, name: www.ozon.ru
+other, price: 3812
+other, url: https://www.ozon.ru/context/detail/id/1009201771/
+updated: 2024-02-24 04:00:05
+
+item_number: 100916676486
+id: 4808045
+title: Трюковая дрифт машинка перевёртыш ZhengGuang Hyper Skidding зелёный UD2196A на радиоуправлении/машина на пульте управления
+price: 7087
+category: Машины
+sku: 100916676486
+url: https://market.yandex.ru/product/100916676486
+yandex, name: opt-store
+yandex, price: 1743
+yandex, url: https://market.yandex.ru/product/662341463/offers?sku=100916676486&how=aprice
+sima-land, price: 3529
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.wildberries.ru
+other, price: 2435
+other, url: https://www.wildberries.ru/catalog/34311304/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 101410586540
+id: 4808182
+title: Робот интерактивный "Милый робот", световые и звуковые эффекты, русская озвучка, цвет жёлтый
+price: 3477
+category: Роботы
+sku: 101410586540
+url: https://market.yandex.ru/product/101410586540
+yandex, name: Funny Toys
+yandex, price: 1943
+yandex, url: https://market.yandex.ru/product/1409810909/offers?sku=101410586540&how=aprice
+sima-land, price: 1890
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.ozon.ru
+other, price: 1995
+other, url: https://www.ozon.ru/context/detail/id/866951262/
+updated: 2024-02-24 04:00:05
+
+item_number: 1764397873
+id: 4834967
+title: Раскраски "Весёлые задания", набор 8 шт., по 12 страниц, развивающие для детей
+price: 491
+category: Раскраски
+sku: 1764397873
+url: https://market.yandex.ru/product/1764397873
+yandex, name: Funny Toys
+yandex, price: 196
+yandex, url: https://market.yandex.ru/product/1781490767/offers?sku=1764397873&how=aprice
+sima-land, price: 150
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.wildberries.ru
+other, price: 231
+other, url: https://www.wildberries.ru/catalog/142791981/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 101107680565
+id: 4898792
+title: Pasabahce Набор салатников с крышкой Chef's, 17.2 см, 17.2х17.2 см, 1.1 л, 2 шт., прозрачный/розовый
+price: 1091
+category: Миски, салатники
+sku: 101107680565
+url: https://market.yandex.ru/product/101107680565
+yandex, name: Холодильник.ру
+yandex, price: 599
+yandex, url: https://market.yandex.ru/product/759973482/offers?sku=101107680565&how=aprice
+sima-land, price: 485
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.wildberries.ru
+other, price: 641
+other, url: https://www.wildberries.ru/catalog/162718451/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 101462651541
+id: 5180090
+title: Клейкая нано лента TORSO, прозрачная, двусторонняя, акриловая 15 мм х 3 м
+price: 365
+category: Двусторонняя лента
+sku: 101462651541
+url: https://market.yandex.ru/product/101462651541
+yandex, name: Фабрика успеха
+yandex, price: 169
+yandex, url: https://market.yandex.ru/product/1449434353/offers?sku=101462651541&how=aprice
+sima-land, price: 69
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.ozon.ru
+other, price: 197
+other, url: https://www.ozon.ru/context/detail/id/266461317/
+updated: 2024-02-24 04:00:05
+
+item_number: 101850870581
+id: 5422839
+title: Сумка кросс-боди BUDI BASA collection, фактура гладкая, серый, мультиколор
+price: 3984
+category: Сумочки
+sku: 101850870581
+url: https://market.yandex.ru/product/101850870581
+yandex, name: Мир настольных игр
+yandex, price: 1372
+yandex, url: https://market.yandex.ru/product/1776709862/offers?sku=101850870581&how=aprice
+sima-land, price: 2072
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.wildberries.ru
+other, price: 1867
+other, url: https://www.wildberries.ru/catalog/16067467/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 101391928797
+id: 5555352
+title: Паровоз "Забавное путешествие", с магнитами, работает от батареек
+price: 764
+category: Транспорт на батарейках
+sku: 101391928797
+url: https://market.yandex.ru/product/101391928797
+yandex, name: Юмитой
+yandex, price: 407
+yandex, url: https://market.yandex.ru/product/1400714378/offers?sku=101391928797&how=aprice
+sima-land, price: 270
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.wildberries.ru
+other, price: 360
+other, url: https://www.wildberries.ru/catalog/22245087/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 100618802876
+id: 7085623
+title: Alan Bray духи L'Homme Legend, 100 мл, 395 г
+price: 2322
+category: Недорогая парфюмерия
+sku: 100618802876
+url: https://market.yandex.ru/product/100618802876
+yandex, name: ООО "Клас-трейдинг"
+yandex, price: 955
+yandex, url: https://market.yandex.ru/product/241616201/offers?sku=100618802876&how=aprice
+sima-land, price: 1199
+sima-land, updated: 2024-02-26 04:30:15
+other, name: www.ozon.ru
+other, price: 1098
+other, url: https://www.ozon.ru/context/detail/id/648722924/
+updated: 2024-02-24 04:00:05
+
+item_number: 100820135995
+id: 9148972
+title: JM Solution JM Solution солнцезащитный спрей с экстрактом жемчуга Marine Luminous Pearl Deep Sun SPF 50, 180 мл
+price: 1475
+category: Средства от загара
+sku: 100820135995
+url: https://market.yandex.ru/product/100820135995
+yandex, name: Asian Beauty Cosmetic
+yandex, price: 514
+yandex, url: https://market.yandex.ru/product/623097107/offers?sku=100820135995&how=aprice
+sima-land, price: 714
+sima-land, updated: 2024-02-26 04:30:16
+other, name: www.wildberries.ru
+other, price: 435
+other, url: https://www.wildberries.ru/catalog/150500490/detail.aspx
+updated: 2024-02-24 04:00:05
+
+item_number: 101236870230
+id: 9559599
+title: Контейнер для хранения Econova Rolly, 15х26.6х8.7 см, прозрачный
+price: 659
+category: Органайзеры для хранения мелких вещей
+sku: 101236870230
+url: https://market.yandex.ru/product/101236870230
+yandex, name: Бытпласт
+yandex, price: 284
+yandex, url: https://market.yandex.ru/product/878523322/offers?sku=101236870230&how=aprice
+sima-land, price: 236
+sima-land, updated: 2024-02-26 04:30:16
+other, name: spb.leroymerlin.ru
+other, price: 252
+other, url: https://spb.leroymerlin.ru/product/konteyner-rolly-15x266x87-sm-265-l-plastik-cvet-prozrachnyy-82355494
+updated: 2024-02-24 04:00:05
+
+item_number: 101969522442
+id: 10307188
+title: Янтарная кислота ImmunoPRO 50 таблеток
+price: 0
+category: Противопростудные средства
+sku: 101969522442
+url: https://market.yandex.ru/product/101969522442
+yandex, name: ООО "АЛМАСА"
+yandex, price: 118
+yandex, url: https://market.yandex.ru/product/1824237391/offers?sku=101969522442&how=aprice
+sima-land, price: 83
+sima-land, updated: 2024-02-26 04:30:16
+other, name: www.ozon.ru
+other, price: 199
+other, url: https://www.ozon.ru/context/detail/id/863501038/
+updated: 2024-02-24 04:00:05
+
+101338546996

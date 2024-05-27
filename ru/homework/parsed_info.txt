@@ -1,0 +1,30 @@
+id: 767647
+available: true
+url: https://rusexpress.ru/products/futlyar-barhatnyy-pod-sergi-kulon-rakushka-6-5-5-3-cm-cvet-rozovyy-vstavka-belaya
+currencyId: RUB
+categoryId: 9784
+picture: https://cdn2.static1-sima-land.com/items/576223/0/700-nw.jpg
+store: false
+pickup: false
+delivery: true
+name: Футляр под серьги/кулон "Ракушка", 6*5,5*3 см, цвет розовый, вставка белая
+count: 60
+vendorCode: 767647
+weight: 0.013
+price: 457
+
+id: 767663
+available: true
+url: https://rusexpress.ru/products/futlyar-barhatnyy-pod-braslet-kub-reznoy-10-10-6-5-cvet-krasnyy-vstavka-krasnaya
+currencyId: RUB
+categoryId: 9784
+picture: https://cdn2.static1-sima-land.com/items/576238/0/700-nw.jpg
+store: false
+pickup: false
+delivery: true
+name: Футляр под браслет "Куб резной", 10*10*6,5, цвет красный, вставка красная
+count: 30
+vendorCode: 767663
+weight: 0.150
+price: 572
+
