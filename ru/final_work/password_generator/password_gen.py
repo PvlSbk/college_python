@@ -58,4 +58,4 @@ def generate_password(password_requirements, length):
         return password
     else:
         password = ''.join(array)
-        return password
+    return password
